@@ -1,10 +1,6 @@
                                           👋 Hey, I'm Ritika Mondal
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=CSE+Student+💻;Python+Developer+🐍;Aspiring+IT+Professional+🚀;AI+Enthusiast+🤖" alt="Typing SVG" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritikamondal01&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-</p>---
+
 
 🌷 About Me
 
