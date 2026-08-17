@@ -86,12 +86,14 @@ logic and problem-solving skills.
 
 </p>---
 
-📊 GitHub Statistics
+---
+ 📌 GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritikamondal01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikamondal01&theme=tokyonight&hide_border=true" width="48%" />
-</p>---
+💻 Building projects  
+🐍 Learning Python  
+🌐 Exploring Web Development  
+🤖 Exploring Artificial Intelligence  
+🚀 Growing every day
 
 🎯 2026 Goals
 
