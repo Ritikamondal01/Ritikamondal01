@@ -73,14 +73,14 @@ Developing Python projects to strengthen programming and problem-solving skills.
 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ritikamondal01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikamondal01&theme=tokyonight&hide_border=true" width="48%" />
 </p>---
 
 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ritikamondal01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>---
 
 📫 Let's Connect
@@ -97,5 +97,5 @@ Developing Python projects to strengthen programming and problem-solving skills.
 💫 Learning. Building. Growing.
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Ritikamondal01&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
